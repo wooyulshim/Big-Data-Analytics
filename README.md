@@ -13,8 +13,8 @@
 
 - [Import](#Import)
 - [Define](#Define)
-- [With Open](#With Open)
-- [while Loop](#while Loop)
+- [With](#With Open)
+- [While Loop](#While Loop)
 
 
 ---
@@ -58,10 +58,10 @@ with open(sourceFileName, 'r', encoding ='utf8') as csvFile, open(destinationFil
 ---
 
 
-## while loop
+## While Loop
 
 ```python
-// while loop
+// While Loop
 
 while line != '':
         try:
