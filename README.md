@@ -14,7 +14,7 @@
 - [Import](#Import)
 - [Define](#Define)
 - [With Open](#With Open)
-- [while loop](#while loop)
+- [while Loop](#while Loop)
 
 
 ---
