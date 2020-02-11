@@ -13,8 +13,8 @@
 
 - [Import](#Import)
 - [Define](#Define)
-- [With](#With Open)
-- [While Loop](#While Loop)
+- [With](#With)
+- [While](#While)
 
 
 ---
@@ -43,7 +43,7 @@ def polarPecent (review,total):
 
 ---
 
-## With Open
+## With
 
 ```python
 // With Open
@@ -58,7 +58,7 @@ with open(sourceFileName, 'r', encoding ='utf8') as csvFile, open(destinationFil
 ---
 
 
-## While Loop
+## While
 
 ```python
 // While Loop
